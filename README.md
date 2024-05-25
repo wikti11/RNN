@@ -1,6 +1,8 @@
 CoNLL-2003 English Named Entity Recognition.
 ======================================================
 
+Important sidenote: To run this project use torchtext version 0.6.0
+
 NER challenge for CoNLL-2003 English.
 Annotations were taken from [University of Antwerp](https://www.clips.uantwerpen.be/conll2003/ner/).
 The English data is a collection of news wire articles from the [Reuters Corpus](https://trec.nist.gov/data/reuters/reuters.html), RCV1.
